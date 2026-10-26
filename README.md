@@ -1,7 +1,6 @@
 # Hey, I'm Ankit Kumar 👋
 
-### Full-Stack Developer | Backend Engineering 
-
+### Software Developer · Backend Engineering
 I'm a B.Tech student in **Electrical and Electronics Engineering at NITK Surathkal**, passionate about building scalable applications, reliable backend systems, and AI-powered products.
 
 I enjoy solving complex problems, designing robust system architectures, and turning ideas into practical software.
